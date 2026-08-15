@@ -1,2 +1,3 @@
 # learning-Git-Github
 My beginner learning practice repository for learning Git and Github
+I am learning Git and GitHub as I prepare to contribute to open source projects.
